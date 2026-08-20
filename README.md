@@ -1,7 +1,7 @@
 # ☕ Everton Lima 
 **`Estudande de T.I`** 
 
-Me chamo Éverton Lima, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na escola Cecy Leite Costa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UPF. Sou apaixonado por tecnologia e tenho um grande objetivo de algum dia ser um grande desenvolvedor de sistemas. E também aprender cada vez mais sobre tecnologia que está em evolução constante.
+Me chamo Éverton Lima, tenho 22 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na escola Cecy Leite Costa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UPF. Sou apaixonado por tecnologia e tenho um grande objetivo de algum dia ser um grande desenvolvedor de sistemas. E também aprender cada vez mais sobre tecnologia que está em evolução constante.
 
 <p align="left">
       <a href="https://github.com/Evertoooon?tab=followers">
